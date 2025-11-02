@@ -1,0 +1,5 @@
+vim.lsp.enable('luals')
+vim.lsp.enable('clangd')
+vim.lsp.enable('bashls')
+vim.lsp.enable('ty')
+vim.lsp.enable('csharp-ls')
